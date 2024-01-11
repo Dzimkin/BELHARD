@@ -1,0 +1,8 @@
+my_notes.txt
+*.log
+.idea/
+build/
+node_modules/
+/venv/
+/.pytest_cache/
+/__pycache__/
